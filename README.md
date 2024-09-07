@@ -21,7 +21,7 @@ This repository contains:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/24k-2545.git
+    https://github.com/amnabaig/24k-2545.git
     ```
 
 2. **Navigate to the Directory**:
